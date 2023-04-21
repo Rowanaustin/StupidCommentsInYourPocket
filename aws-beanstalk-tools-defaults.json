@@ -1,0 +1,14 @@
+
+{
+    "region" : "eu-west-2",
+    "configuration" : "Release",
+    "framework"     : "net7.0",
+    "self-contained" : true,
+    "application"    : "StupidCommentsInYourPocket",
+    "environment"    : "Stupidcommentsinyourpocket-env",
+    "app-path"       : "/",
+    "iis-website"    : "Default Web Site",
+    "enable-xray"    : false,
+    "enhanced-health-type" : "enhanced",
+    "additional-options"   : ""
+}

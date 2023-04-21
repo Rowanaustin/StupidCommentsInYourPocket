@@ -1,0 +1,45 @@
+﻿@page "/"
+@inherits LayoutComponentBase
+@using MudBlazor
+@using StupidCommentsInYourPocket.Data;
+@inject FileOperationsService FileOperationsService
+
+<MudContainer MaxWidth="MaxWidth.Large">
+
+	<MudImage Class="myImage" ObjectFit="ObjectFit.Cover" Src="@_imageUri"></MudImage>
+
+	<MudOverlay Visible="true" >
+
+		<MudCard Style="opacity: 0.6">
+			<MudCardContent>
+				<MudText Style="opacity: 1" Typo="Typo.h5" Color=Color.Surface Align="Align.Center">@_quoteText</MudText>
+			</MudCardContent>
+		</MudCard>
+
+	</MudOverlay>
+
+</MudContainer>
+<style>
+	.myImage {
+		min-width: 110vw;
+		min-height: 110vh;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 45%;
+	}
+</style>
+@code
+{
+	private string _quoteText = "";
+	private string _imageUri = "";
+	private ImageList _imageUris = new ImageList();
+
+	protected override void OnInitialized()
+	{
+		var quote = FileOperationsService.GetRandomQuote();
+		_quoteText = quote.Quote;
+		_imageUri = _imageUris.ImageDict[quote.Character];
+		StateHasChanged();
+	}
+}
