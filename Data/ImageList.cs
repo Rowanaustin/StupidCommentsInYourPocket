@@ -19,6 +19,7 @@
 				{ Character.Peter, _folder + "Peter.png" },
 				{ Character.Mike, _folder + "Mike.png" },
 				{ Character.Steven, _folder + "Steven.png" },
+				{ Character.ChrisR, _folder + "ChrisR.png" },
 			};
 		}
 	}

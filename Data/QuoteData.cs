@@ -23,6 +23,7 @@
 		Michelle = 6,
 		Peter = 7,
 		Mike = 8,
-		Steven = 9
+		Steven = 9,
+		ChrisR = 10
 	}
 }
