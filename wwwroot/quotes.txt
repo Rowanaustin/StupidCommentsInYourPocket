@@ -1,88 +1,89 @@
-﻿ “You betrayed me! You’re not good. You, you’re just a chicken. Cheep cheep cheep cheep cheep cheep.” – Johnny
- “Here you go, keep the change! Hi, doggie!” – Johnny
- “I did not hit her, it’s not true. I did not hit her, I did not—oh, hi Mark!” – Johnny
- “You don’t understand anything, man. Leave your stupid comments in your pocket!” – Mark
- “You must be kidding? Underwear. I got the picture.” – Johnny
- “Denny, two’s great, but three’s a crowd.” – Johnny
- “No, I can’t. Anyway, how’s your sex life?” – Johnny 
- “Everybody betrayed me. I’m fed up with this world.” – Johnny
- “I’m so happy I have you as my best friend, and I love Lisa so much.” – Johnny
- “You are lying! I never hit you! You are tearing me apart, Lisa!” – Johnny
- “Johnny’s my best friend!” – Mark
- “I got the results of the test back. I definitely have breast cancer.” – Claudette
- “Denny, don’t worry about that. Lisa loves you too—as a person, as a human being!” – Johnny 
- “They betray me, they didn’t keep their promise, they trick me, and I don’t care anymore.” – Johnny
- “What are you talking about? I just saw you!” – Mark
- “I miss you, Mark.” – Lisa
- “She’s beautiful. She looks great in her red dress—I think I’m in love with her.” – Denny
- “I’m tired, I’m wasted—I love you darling!” – Johnny
- “Anyway, I was working as a busboy in a hotel, and Lisa was sitting, drinking her coffee and she was so beautiful, and I say hi to her. That’s how we met.” – Johnny
- “Thank you, honey, this is a beautiful party! You invited all my friends—good thinking!” – Johnny
- “The candles, the music, the sexy dress. I mean, what’s going on here?” – Mark
- “You look beautiful today. Can I kiss you?” – Denny
- “I just wanted to hear your sexy voice. I keep thinking about your strong hands around my body. It excites me so much.” – Lisa
- “You can love someone deep inside your heart, and there is nothing wrong with it. If a lot of people love each other, the world would be a better place to live.” – Johnny
- “I don’t have to worry about anything because Lisa is loyal to me.” – Johnny
- “Good idea Peter. The party’s over. Besides, it was a big Lame­-O anyway.” – Johnny
- “Can you believe it’s going to cost me 0 dollars? I think the whole thing was made up just so they can make some easy money. Imagine taking advantage of an old defenseless lady who’s losing her life!” – Claudette
- “You think about everything. Hahaha!” – Johnny
- “You have nice legs, Lisa. Hahaha!” – Johnny
- “I used to know a girl, she had a dozen guys. One of them found out about it, beat her up so bad she ended up at a hospital on Guerrero Street.” – Mark
- “You are such a little brat!” – Lisa
- “In a few minutes, bitch.” – Johnny
- “You have nice pecs.” – Lisa
- “I feel like I’m sitting on an atomic bomb waiting for it to go off.” – Steven
- “She pulls it out, and she’s showing everybody my underwear.” – Mike
- “Oh man, I just can’t figure women out. Sometimes they’re just too smart. Sometimes they’re flat-out stupid. Other times they’re just evil.” – Mark
- “That’s why he’s so boring!” – Lisa
- “Mmm, feed me.” – Michelle
- “Stop ganging up on me!” – Denny
- “What’s clear? I am going to call the police.” – Claudette
- “As far as I’m concerned, you can drop off the Earth! That’s a promise.” – Mark 
- “This is not the way you make money!” – Claudette
- “Do you want me to order a pizza?” – Lisa
- “I am not responsible for Johnny. I’m through with that. I’m changing. I have the right, don’t I? People are changing all the time.” – Lisa
- “She’s a stupid bitch. She wants to control my life. I’m not going to put up with that. I’m going to do what I want to do, and that’s it. What do you think I should do?” – Lisa
- “Hahaha! What a story, Mark!” – Johnny
- “You couldn’t kill me if you tried.” – Mark
- “I cannot tell you, it’s confidential.” – Johnny
- “Denny, don’t you have something else to do?” – Johnny
- “He didn’t get his promotion. And he got drunk last night—and he hit me.” – Lisa
- “Look, don’t worry about it. Everything will be fine. They’re curing lots of people every day.” – Lisa
- “How much do you have to give him?” – Lisa
- “Yeah, man. Yeah, you are very lucky.” – Mark
- “Oh, actually Johnny, I got a—I got a little bit of a tragedy.” – Mike
- “You’re not dying mom.” – Lisa
- “You and your stupid mother.” – Johnny
- "You're not my fucking mother!" – Denny
- “You can come out now, Johnny. She’s gone.” – Lisa
- “Come on, stop. It was a mistake.” – Mark
- “I’m sure I’ll be alright.” – Claudette
- “You’ve known him for over five years. You’re engaged. You said you loved him. He supports you, he provides for you, and darling you can’t support yourself. He’s a wonderful man, and he loves you very much. And his position is very secure. And he told me he plans to buy you a house.” – Claudette
- “He is always bugging me about my house. Fifteen years ago, we agreed that house belongs to me. Now, the value of the house is going up and he’s seeing dollar signs. Everything goes wrong at once. Nobody wants to help me. And I’m dying.” – Claudette
- “I just needed some money to pay off some stuff!” – Denny 
- “I just like to watch you guys.” – Denny
- “Yeah, you can say that again.” – Mark
- “Did you get your promotion?” – Lisa
- “I told him that to make it interesting. We’re probably going to have a baby eventually anyway. You’re not going to tell Johnny, are you?” – Lisa
- “Ah, don’t plan too much. It might not come out right.” – Johnny
- ”You cannot have the drama without comedy.” – Johnny
- “Everything's not ok. Denny does drugs.” – Claudette
- “We got a new client—at the bank. We make a lot of money.” – Johnny
- “Do you understand life?! Do you?!” – Johnny
- “Johnny doesn’t drink! What are you talking about?” – Claudette
- “When is the baby due?” – Steven
- “You didn’t get it, did you?” – Lisa
- “Yeah, can I have a dozen red roses please?” – Johnny
- “Did you know that chocolate is the symbol of love?” – Mike
- “How dare you talk to me like that!” – Johnny
- “I already ordered a pizza.” – Lisa
- “Hi Johnny, what’s going on?” – Mike
- “So, what sort of movie are we gonna see?” – Denny
- “There is no baby.” – Lisa
- “Well, maybe you should have a girl, Mark.” – Johnny 
- “Well, the interesting part is that on our first date, she paid for dinner.” – Johnny
- "People are people. Sometimes they just can't see their own faults." – Peter
- "You want five fuckin' minutes, Denny? You know what? I haven't got five fucking minutes!" - ChrisR
- "What do you mean it's coming Denny?" - ChrisR
- "This is going to pull us all down. It’s going to shake up our group of friends." - Steven
+﻿ “You betrayed me! You’re not good. You, you’re just a chicken. Cheep cheep cheep cheep cheep cheep.”++Johnny
+ “Here you go, keep the change! Hi, doggie!”++Johnny
+ “I did not hit her, it’s not true. I did not hit her, I did not—oh, hi Mark!”++Johnny
+ “You don’t understand anything, man. Leave your stupid comments in your pocket!”++Mark
+ “You must be kidding? Underwear. I got the picture.”++Johnny
+ “Denny, two’s great, but three’s a crowd.”++Johnny
+ “No, I can’t. Anyway, how’s your sex life?”++Johnny 
+ “Everybody betrayed me. I’m fed up with this world.”++Johnny
+ “I’m so happy I have you as my best friend, and I love Lisa so much.”++Johnny
+ “You are lying! I never hit you! You are tearing me apart, Lisa!”++Johnny
+ “Johnny’s my best friend!”++Mark
+ “I got the results of the test back. I definitely have breast cancer.”++Claudette
+ “Denny, don’t worry about that. Lisa loves you too—as a person, as a human being!”++Johnny 
+ “They betray me, they didn’t keep their promise, they trick me, and I don’t care anymore.”++Johnny
+ “What are you talking about? I just saw you!”++Mark
+ “I miss you, Mark.”++Lisa
+ “She’s beautiful. She looks great in her red dress—I think I’m in love with her.”++Denny
+ “I’m tired, I’m wasted—I love you darling!”++Johnny
+ “Anyway, I was working as a busboy in a hotel, and Lisa was sitting, drinking her coffee and she was so beautiful, and I say hi to her. That’s how we met.”++Johnny
+ “Thank you, honey, this is a beautiful party! You invited all my friends—good thinking!”++Johnny
+ “The candles, the music, the sexy dress. I mean, what’s going on here?”++Mark
+ “You look beautiful today. Can I kiss you?”++Denny
+ “I just wanted to hear your sexy voice. I keep thinking about your strong hands around my body. It excites me so much.”++Lisa
+ “You can love someone deep inside your heart, and there is nothing wrong with it. If a lot of people love each other, the world would be a better place to live.”++Johnny
+ “I don’t have to worry about anything because Lisa is loyal to me.”++Johnny
+ “Good idea Peter. The party’s over. Besides, it was a big Lame­-O anyway.”++Johnny
+ “Can you believe it’s going to cost me 0 dollars? I think the whole thing was made up just so they can make some easy money. Imagine taking advantage of an old defenseless lady who’s losing her life!”++Claudette
+ “You think about everything. Hahaha!”++Johnny
+ “You have nice legs, Lisa. Hahaha!”++Johnny
+ “I used to know a girl, she had a dozen guys. One of them found out about it, beat her up so bad she ended up at a hospital on Guerrero Street.”++Mark
+ “You are such a little brat!”++Lisa
+ “In a few minutes, bitch.”++Johnny
+ “You have nice pecs.”++Lisa
+ “I feel like I’m sitting on an atomic bomb waiting for it to go off.”++Steven
+ “She pulls it out, and she’s showing everybody my underwear.”++Mike
+ “Oh man, I just can’t figure women out. Sometimes they’re just too smart. Sometimes they’re flat-out stupid. Other times they’re just evil.”++Mark
+ “That’s why he’s so boring!”++Lisa
+ “Mmm, feed me.”++Michelle
+ “Stop ganging up on me!”++Denny
+ “What’s clear? I am going to call the police.”++Claudette
+ “As far as I’m concerned, you can drop off the Earth! That’s a promise.”++Mark 
+ “This is not the way you make money!”++Claudette
+ “Do you want me to order a pizza?”++Lisa
+ “I am not responsible for Johnny. I’m through with that. I’m changing. I have the right, don’t I? People are changing all the time.”++Lisa
+ “She’s a stupid bitch. She wants to control my life. I’m not going to put up with that. I’m going to do what I want to do, and that’s it. What do you think I should do?”++Lisa
+ “Hahaha! What a story, Mark!”++Johnny
+ “You couldn’t kill me if you tried.”++Mark
+ “I cannot tell you, it’s confidential.”++Johnny
+ “Denny, don’t you have something else to do?”++Johnny
+ “He didn’t get his promotion. And he got drunk last night—and he hit me.”++Lisa
+ “Look, don’t worry about it. Everything will be fine. They’re curing lots of people every day.”++Lisa
+ “How much do you have to give him?”++Lisa
+ “Yeah, man. Yeah, you are very lucky.”++Mark
+ “Oh, actually Johnny, I got a—I got a little bit of a tragedy.”++Mike
+ “You’re not dying mom.”++Lisa
+ “You and your stupid mother.”++Johnny
+ "You're not my fucking mother!"++Denny
+ “You can come out now, Johnny. She’s gone.”++Lisa
+ “Come on, stop. It was a mistake.”++Mark
+ “I’m sure I’ll be alright.”++Claudette
+ “You’ve known him for over five years. You’re engaged. You said you loved him. He supports you, he provides for you, and darling you can’t support yourself. He’s a wonderful man, and he loves you very much. And his position is very secure. And he told me he plans to buy you a house.”++Claudette
+ “He is always bugging me about my house. Fifteen years ago, we agreed that house belongs to me. Now, the value of the house is going up and he’s seeing dollar signs. Everything goes wrong at once. Nobody wants to help me. And I’m dying.”++Claudette
+ “I just needed some money to pay off some stuff!”++Denny 
+ “I just like to watch you guys.”++Denny
+ “Yeah, you can say that again.”++Mark
+ “Did you get your promotion?”++Lisa
+ “I told him that to make it interesting. We’re probably going to have a baby eventually anyway. You’re not going to tell Johnny, are you?”++Lisa
+ “Ah, don’t plan too much. It might not come out right.”++Johnny
+ ”You cannot have the drama without comedy.”++Johnny
+ “Everything's not ok. Denny does drugs.”++Claudette
+ “We got a new client—at the bank. We make a lot of money.”++Johnny
+ “Do you understand life?! Do you?!”++Johnny
+ “Johnny doesn’t drink! What are you talking about?”++Claudette
+ “When is the baby due?”++Steven
+ “You didn’t get it, did you?”++Lisa
+ “Yeah, can I have a dozen red roses please?”++Johnny
+ “Did you know that chocolate is the symbol of love?”++Michelle
+ “How dare you talk to me like that!”++Johnny
+ “I already ordered a pizza.”++Lisa
+ “Hi Johnny, what’s going on?”++Mike
+ “So, what sort of movie are we gonna see?”++Denny
+ “There is no baby.”++Lisa
+ “Well, maybe you should have a girl, Mark.”++Johnny 
+ “Well, the interesting part is that on our first date, she paid for dinner.”++Johnny
+ "People are people. Sometimes they just can't see their own faults."++Peter
+ "You want five fuckin' minutes, Denny? You know what? I haven't got five fucking minutes!"++ChrisR
+ "What do you mean it's coming Denny?"++ChrisR
+ "This is going to pull us all down. It’s going to shake up our group of friends."++Steven
+ "It's Mark, isn't it?"++Michelle

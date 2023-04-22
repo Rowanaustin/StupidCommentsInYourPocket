@@ -18,7 +18,7 @@ namespace StupidCommentsInYourPocket.Data
 
 			var line = fileData[r.Next(fileData.Length)];
 			
-			var parts = line.Split(" – ");
+			var parts = line.Split("++");
 			if (parts.Length != 2)
 			{
 				var bit = "";
