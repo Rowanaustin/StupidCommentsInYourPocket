@@ -5,17 +5,17 @@
 @inject FileOperationsService FileOperationsService
 
 
-	<MudImage Class="myImage" ObjectFit="ObjectFit.Cover" Src="@_imageUri"></MudImage>
+<MudImage Class="myImage" ObjectFit="ObjectFit.Cover" Src="@_imageUri"></MudImage>
 
-	<MudOverlay Visible="true" >
+<MudOverlay Visible="true" >
 
-		<MudCard Style="opacity: 0.7">
-			<MudCardContent>
-				<MudText Style="opacity: 1" Typo="Typo.h4" Color=Color.Surface Align="Align.Center">@_quoteText</MudText>
-			</MudCardContent>
-		</MudCard>
+	<MudCard Style="opacity: 0.7" @onclick="OnClickText">
+		<MudCardContent>
+			<MudText Style="opacity: 1" Typo="Typo.h4" Color=Color.Surface Align="Align.Center">@_quoteText</MudText>
+		</MudCardContent>
+	</MudCard>
 
-	</MudOverlay>
+</MudOverlay>
 
 <style>
 	.myImage {
@@ -39,5 +39,10 @@
 		_quoteText = quote.Quote;
 		_imageUri = _imageUris.ImageDict[quote.Character];
 		StateHasChanged();
+	}
+
+	private void OnClickText()
+	{
+		OnInitialized();
 	}
 }
